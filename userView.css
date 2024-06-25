@@ -1,0 +1,14 @@
+.user-view {
+    /* Add styles for single user view layout */
+  }
+  
+  .user-blogs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .user-blogs li {
+    margin-bottom: 5px;
+  }
+  
